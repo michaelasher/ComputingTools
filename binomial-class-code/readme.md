@@ -6,7 +6,6 @@ To calculate a binomial coefficient, run the `binomial.py` script from the `bino
 
 ```
 python binomial.py -n 10 -k 5
-
 ```
 The code above will calculate the cofficient for "10 choose 5"
 
